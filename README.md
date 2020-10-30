@@ -4,7 +4,7 @@ Modpaaaaack wuhuuuuu
 
 Hier ein kleines tutorial:
 
-#1. 
+# 1. 
   Dieses repository herunterladen und entpacken.
   
   
@@ -12,7 +12,7 @@ Hier ein kleines tutorial:
    
    'git clone https://github.com/g3sis/modpack.git'
    
-#2.
+# 2.
   Forge aus diesem repo/archiv installieren.
     
       Entweder einfach öffnen wenns geht...
@@ -24,16 +24,16 @@ Hier ein kleines tutorial:
     
     Danach einfach dem installer folgen und zack...
     
-#3.
+# 3.
   danach einmal den Minecraft-Laucher öffnen und mit der eben installierten Forge version das Spiel starten und wieder schließen
   
-#4.
+# 4.
   wieder win+r drücken und nach %appdata% suchen
   .minecraft öffnen
   und nun die dateien aus dem Mods ordner aus diesem repo in den hier vorhandenen kopieren
 
 
-#5.
+# 5.
   Hoffentlich spaß am spielen haben!!!!!
   
   
