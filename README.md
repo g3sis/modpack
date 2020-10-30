@@ -10,19 +10,19 @@ Hier ein kleines tutorial:
   
   Oder über git clonen.
    
-   'git clone https://github.com/g3sis/modpack.git'
+       'git clone https://github.com/g3sis/modpack.git'
    
 # 2.
   Forge aus diesem repo/archiv installieren.
     
-      Entweder einfach öffnen wenns geht...
+   Entweder einfach öffnen wenns geht...
     
-      Ooooder
-        1: win+r drücken und cmd eingeben
-        2: 'cd Downloads/'
-        3: 'java -jar "forge-1.16.3-34.1.0-installer.jar"'
+   Ooooder
+          1: win+r drücken und cmd eingeben
+          2: 'cd Downloads/'
+          3: 'java -jar "forge-1.16.3-34.1.0-installer.jar"'
     
-    Danach einfach dem installer folgen und zack...
+   Danach einfach dem installer folgen und zack...
     
 # 3.
   danach einmal den Minecraft-Laucher öffnen und mit der eben installierten Forge version das Spiel starten und wieder schließen
