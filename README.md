@@ -39,7 +39,7 @@ Hier ein kleines tutorial:
   
   
   
-#IP-Adresse zum Server
+# IP-Adresse zum Server
 
       185.223.31.68:2234
 
