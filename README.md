@@ -19,9 +19,8 @@ Hier ein kleines tutorial:
     
    Ooooder
    
-          1: win+r drücken und cmd eingeben
-          2: 'cd Downloads/'
-          3: 'java -jar "forge-1.16.3-34.1.0-installer.jar"'
+          1: win+r drücken und cmd eingeben und folgendes in die kommandozeile eingeben bzw kopieren
+          2: cd Downloads/ && java -jar "forge-1.16.3-34.1.0-installer.jar"
     
    Danach einfach dem installer folgen und zack...
     
