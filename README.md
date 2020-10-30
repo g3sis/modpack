@@ -18,6 +18,7 @@ Hier ein kleines tutorial:
    Entweder einfach öffnen wenns geht...
     
    Ooooder
+   
           1: win+r drücken und cmd eingeben
           2: 'cd Downloads/'
           3: 'java -jar "forge-1.16.3-34.1.0-installer.jar"'
@@ -41,5 +42,5 @@ Hier ein kleines tutorial:
   
 #IP-Adresse zum Server
 
-  185.223.31.68:2234
+      185.223.31.68:2234
 
