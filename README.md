@@ -28,7 +28,7 @@ ich gehe btw davon aus das java installiert ist, wenn nicht bitte machen sonst g
           
    
           1: am besten im Modpack ordner mit der forge-blaaaa.jar file eine komandozeile öffnen 
-             (oben links im file explorer auf datei/file drücken und powershell öffnen)
+             ![Image of Powershell stuff](https://github.com/g3sis/modpack/Modpack/shell.png)
              und folgendes in die kommandozeile eingeben bzw kopieren
               
           2: java -jar "forge-1.16.3-34.1.0-installer.jar"
