@@ -1,6 +1,7 @@
 # modpack
 Modpaaaaack wuhuuuuu
 
+https://github.com/g3sis/modpack/blob/main/Mod%20Erkl%C3%A4rungen.md
 
 Tutorial Time :toolbox:
 
