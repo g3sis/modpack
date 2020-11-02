@@ -18,4 +18,8 @@
     
       https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-forge
       
+# XP-Tome
+
+      https://www.curseforge.com/minecraft/mc-mods/xp-tome
+      
       
